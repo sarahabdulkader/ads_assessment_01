@@ -30,4 +30,4 @@ while True:
     if change < 0:
         print("You do not have enough money to pay.")
         continue
-print("Thank you for your purchase.")
+print("Thank you for your purchae.")
